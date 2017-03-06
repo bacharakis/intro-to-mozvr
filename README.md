@@ -9,6 +9,3 @@
 <li>Follow the instructions in each example</li>
 </ol>
 
-
-##Credits
-- [Xiaoying Riley](https://twitter.com/3rdwave_themes) who created the original theme
