@@ -1,5 +1,5 @@
 
-##WebVR Activity for Mozilla Campus Clubs program
+## WebVR Activity for Mozilla Campus Clubs program
 
 [Check the activity in this link](https://mozillacampusclubs.github.io/Build-a-Virtual-World/) for more information:
 <ol>
